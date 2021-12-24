@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Logs
 logs
 *.log
@@ -102,3 +103,14 @@ dist
 
 # TernJS port file
 .tern-port
+=======
+node_modules/
+package-lock.json
+
+tsconfig.json
+
+.eslintrc.json
+.prettierrc
+
+.vscode
+>>>>>>> 8310f9d (19:37 24/12/2021)
